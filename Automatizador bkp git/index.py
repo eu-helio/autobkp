@@ -1,2 +1,2 @@
-a = "teste"
-print (a)
+user = ""
+pw = ""
