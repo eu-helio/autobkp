@@ -1,1 +1,1 @@
-print ("Hello Word") 3
+var = 1
